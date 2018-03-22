@@ -1,6 +1,0 @@
-Win7下安装（python 2.7）
-1.pip install wfdb
-2.pip 9.0.1->9.0.3升级
-    pip -m pip install pip 
-3.read time out 失败
-   ？？？？？
